@@ -6,13 +6,16 @@ To try it out clone the repo using the following command
 git clone git@github.com:EnTRoPY0120/Tic-Tac-Toe-CLI.git
 ```
 
-cd into the directory 
+Go to the file directory that you just cloned
+
 ```bash
 cd Tic-Tac-Toe-CLI
 ```
-Run the command 
+
+Run the command
+
 ```bash
 node .
 # OR
 node index.js
-``` 
+```
