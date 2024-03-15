@@ -19,3 +19,8 @@ node .
 # OR
 node index.js
 ```
+
+### Demo Video here:
+
+https://github.com/EnTRoPY0120/Tic-Tac-Toe-CLI/assets/113714972/2a260db3-2839-453d-a416-d861e3c24b5b
+
